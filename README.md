@@ -1,4 +1,6 @@
+![](https://github.com/arjungupta-15/arjungupta-15/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arjun. You Are Welcome.</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungupta-15&label=Profile%20views&color=0e75b6&style=flat" alt="arjungupta-15" /> </p>
