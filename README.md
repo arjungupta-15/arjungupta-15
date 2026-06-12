@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjungupta_05" target="blank"><img src="https://img.shields.io/twitter/follow/arjungupta_05?logo=twitter&style=for-the-badge" alt="arjungupta_05" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Next.Js**
 
